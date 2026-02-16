@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Manalili_ScenarioD/1.0.0": {
+        "runtime": {
+          "Manalili_ScenarioD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manalili_ScenarioD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

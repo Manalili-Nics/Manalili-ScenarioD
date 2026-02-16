@@ -1,0 +1,14 @@
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\Manalili_ScenarioD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\Manalili_ScenarioD.AssemblyInfoInputs.cache
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\Manalili_ScenarioD.AssemblyInfo.cs
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\Manalili_ScenarioD.csproj.CoreCompileInputs.cache
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\bin\Debug\net10.0\Manalili_ScenarioD.exe
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\bin\Debug\net10.0\Manalili_ScenarioD.deps.json
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\bin\Debug\net10.0\Manalili_ScenarioD.runtimeconfig.json
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\bin\Debug\net10.0\Manalili_ScenarioD.dll
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\bin\Debug\net10.0\Manalili_ScenarioD.pdb
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\Manalili_ScenarioD.dll
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\refint\Manalili_ScenarioD.dll
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\Manalili_ScenarioD.pdb
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\Manalili_ScenarioD.genruntimeconfig.cache
+C:\Users\NICOLE_MANALILI\Desktop\Manalili_ScenarioD\obj\Debug\net10.0\ref\Manalili_ScenarioD.dll
